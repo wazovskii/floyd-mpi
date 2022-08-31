@@ -8,7 +8,7 @@
 ![Alt text](/materials/scheme-algo.png?raw=true "Optional Title")
 
 Прирост ускорения изображен на рисунке.
-![Alt text](/materials/speedup.png ?raw=true "Optional Title")
+![Alt text](/materials/speedup.png?raw=true "Optional Title")
 
 Прирост ускорения по времени изображен на рисунке.
-![Alt text](/materials/speedup-time.png ?raw=true "Optional Title")
+![Alt text](/materials/speedup-time.png?raw=true "Optional Title")
